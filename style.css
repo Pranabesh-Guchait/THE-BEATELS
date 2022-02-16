@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    background-color: #ff6347;
+}
+h1{
+    font-size: 6rem;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 10px 0 rgba(56, 56, 56, 0.486);
+}
+.allBtn{
+    margin: 2% auto;
+}
+.but1{
+    background-image: url();
+}
+.but2{
+    background-image: url();
+}
+.but3{
+    background-image: url();
+}
+.but4{
+    background-image: url();
+}
+.but5{
+    background-image: url();
+}
+.but6{
+    background-image: url();
+}
+.but7{
+    background-image: url();
+}
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+.drum{
+    outline: none;
+    border: 10px solid #00e1ff56;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: tomato;
+    text-shadow: 9px 0 #92dbf3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
